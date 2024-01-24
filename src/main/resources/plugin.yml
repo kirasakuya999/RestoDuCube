@@ -1,0 +1,11 @@
+name: RestoDuCube
+version: '${project.version}'
+main: net.decacraft.restoducube.RestoDuCube
+api-version: 1.18
+authors: [ Kirasakuya ]
+description: Plugin Resto du Cube
+website: decacraft.net
+commands:
+  resto:
+    description: Restos du Cube
+    usage: /resto
